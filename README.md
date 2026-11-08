@@ -1,2 +1,1 @@
-# Armap
-grip strength &amp; arm wrestling
+# C2I-GripChallenge

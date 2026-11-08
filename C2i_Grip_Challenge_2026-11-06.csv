@@ -1,0 +1,42 @@
+Nom,Groupe,Categorie,Poids de corps (kg),Grip (kg),Ratio (Grip/Poids)
+"Swen","SCII","H",80,52,0.65
+"Nathan","SCII","H",70,61,0.87
+"Paul","SCII","H",61,61.9,1.01
+"Clément","DESA","H",57,63.4,1.11
+"Corentin","SCII","H",77,64,0.83
+"Saadi","SCII","H",85,88,1.04
+"Nicolas","ADIC","H",68,62.7,0.92
+"Antho T","SCII","H",76,82.9,1.09
+"Tom","ADIC","H",105,71,0.68
+"Yvan","ADIC","H",92,88.9,0.97
+"Maxime","ADIC","H",60,49.6,0.83
+"Romain","SSG","H",108,83,0.77
+"Jessee","ADIC","H",97,108.6,1.12
+"Evariste","ADIC","H",70,64.9,0.93
+"Adrien F","SCII","H",90,87.4,0.97
+"Gilles","SCII","H",61,69.3,1.14
+"Julien","SCII","H",82,101.8,1.24
+"Camille","SCII","H",71,74.5,1.05
+"Milton","VD N4","H",84,60,0.71
+"Antho BAZZU","ARC","H",90,73.8,0.82
+"Franklin","ADIC","H",71,70.5,0.99
+"Patrick","FLA3","H",89,68,0.76
+"Yann","SIMU","H",95,56.9,0.60
+"Hilal","ADIC","H",63,54.1,0.86
+"Guillaume C.","SCII","H",76,89.3,1.18
+"François","ADIC","H",68,71.6,1.05
+"Silvio","ADIC","H",90,59,0.66
+"Hugo","ADIC","H",75,66.1,0.88
+"Louis","ADIC","H",75,62.4,0.83
+"Alberic","ADIC","H",66,66.1,1.00
+"Nico","ASSYSTEM","H",62,53,0.85
+"Pierre Aussenard","SCII","H",100,74,0.74
+"Dam1","PFC","H",,73,-
+"Michel D","PFC","H",,68,-
+"Michelle","PFC","F",59,38,0.64
+"quentin","PFC","H",71,71,1.00
+"Lucas N4","PFC","H",66,56.6,0.86
+"Hamza","PFC","H",65,52.7,0.81
+"Steph (Rambgro)","PFC","H",100,42.2,0.42
+"Benoit T","PFC","H",80,67,0.84
+"Aziz B","PFC","H",80,83,1.04
